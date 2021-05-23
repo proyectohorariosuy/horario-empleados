@@ -1,5 +1,5 @@
 {
-    "name": "freya-ng",
+    "name": "horarios-empleados",
     "version": "11.0.0",
     "scripts": {
         "ng": "ng",
@@ -16,6 +16,7 @@
         "@angular/common": "~11.0.0",
         "@angular/compiler": "~11.0.0",
         "@angular/core": "~11.0.0",
+        "@angular/fire": "^6.1.5",
         "@angular/forms": "~11.0.0",
         "@angular/platform-browser": "~11.0.0",
         "@angular/platform-browser-dynamic": "~11.0.0",
@@ -25,6 +26,7 @@
         "@fullcalendar/interaction": "4.1.0",
         "@fullcalendar/timegrid": "4.1.0",
         "chart.js": "2.7.3",
+        "firebase": "^8.6.2",
         "primeflex": "2.0.0",
         "primeicons": "4.1.0",
         "primeng": "11.2.0",
